@@ -1,4 +1,4 @@
-# Random User Cards
+# Random User Cards Fake
 
 Este projeto consiste em uma aplicação web que exibe cards com informações de usuários ficticios geradas aleatoriamente utilizando a API `https://randomuser.me/`. Os cards mostram uma foto, nome, e informações de contato dos usuários, e a interface é responsiva, adequada para desktop e dispositivos móveis.
 
